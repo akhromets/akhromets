@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhromets)](https://github.com/akhromets/github-readme-stats)
+[![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhromets&include_all_commits=true)](https://github.com/akhromets/github-readme-stats)
 
 <!--
 **akhromets/akhromets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
