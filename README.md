@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhromets&include_all_commits=true&theme=dracula&hide_border=false)](https://github.com/akhromets/github-readme-stats)
-[![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akhromets&layout=compact&theme=dracula&hide_border=false)](https://github.com/akhromets/github-readme-stats)
+[![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhromets&include_all_commits=true&theme=dracula&hide_border=false)](https://github.com/akhromets)
+[![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akhromets&layout=compact&theme=dracula&hide_border=false)](https://github.com/akhromets)
 
 
 <!--
